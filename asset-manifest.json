@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Prototype/static/css/main.edb1d99d.css",
-    "main.js": "/Prototype/static/js/main.7456c9c8.js",
-    "static/js/453.7ec2f2b2.chunk.js": "/Prototype/static/js/453.7ec2f2b2.chunk.js",
-    "index.html": "/Prototype/index.html",
-    "main.edb1d99d.css.map": "/Prototype/static/css/main.edb1d99d.css.map",
-    "main.7456c9c8.js.map": "/Prototype/static/js/main.7456c9c8.js.map",
-    "453.7ec2f2b2.chunk.js.map": "/Prototype/static/js/453.7ec2f2b2.chunk.js.map"
+    "main.css": "/Abuaisheh/Referral-GHI.git/static/css/main.edb1d99d.css",
+    "main.js": "/Abuaisheh/Referral-GHI.git/static/js/main.82d94770.js",
+    "static/js/453.7ec2f2b2.chunk.js": "/Abuaisheh/Referral-GHI.git/static/js/453.7ec2f2b2.chunk.js",
+    "index.html": "/Abuaisheh/Referral-GHI.git/index.html",
+    "main.edb1d99d.css.map": "/Abuaisheh/Referral-GHI.git/static/css/main.edb1d99d.css.map",
+    "main.82d94770.js.map": "/Abuaisheh/Referral-GHI.git/static/js/main.82d94770.js.map",
+    "453.7ec2f2b2.chunk.js.map": "/Abuaisheh/Referral-GHI.git/static/js/453.7ec2f2b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.edb1d99d.css",
-    "static/js/main.7456c9c8.js"
+    "static/js/main.82d94770.js"
   ]
 }
